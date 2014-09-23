@@ -2,7 +2,7 @@ text.usetex: True
 font.family: serif
 font.sans-serif: Times
 font.size: 10
-figure.figsize: 3.125, 1.93
+figure.figsize: 3.125, 1.56
 legend.fontsize: 8
 legend.fancybox: True
 axes.linewidth: 0.5
